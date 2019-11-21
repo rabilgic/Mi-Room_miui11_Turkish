@@ -11,7 +11,7 @@
   <string name="accessibility_beauty_switch_open">Güzelleştirme açık</string>
   <string name="accessibility_bokeh_normal">Ön kamera arka plan bulanıklığı kapalı</string>
   <string name="accessibility_bokeh_on">Ön kamera arka plan bulanıklığı açık</string>
-  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
+  <string name="accessibility_camera_module_picker">Kamera Modül Seçici</string>
   <string name="accessibility_camera_picker">Ön ve arka kamera geçişi</string>
   <string name="accessibility_camera_picker_finish">Kameralar başarıyla değişti</string>
   <string name="accessibility_camera_shutter_finish">Fotoğraf başarıyla çekildi</string>
